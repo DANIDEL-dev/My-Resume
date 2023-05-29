@@ -6,4 +6,6 @@ h1{text-align:center;
 h2,h3,h4,p {text-align: left;
         color:#1a1616
 }  
-.a,footer {text-align:center;}
+footer {text-align:center;}
+a{text-align:center;
+    display:block;}
