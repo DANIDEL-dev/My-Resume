@@ -1,5 +1,5 @@
 body
-{background-image:./images,background-image;}
+{background-image: <img src="../Images/background-image.png";}
 
 h1{text-align:center;
     color:#343434}
