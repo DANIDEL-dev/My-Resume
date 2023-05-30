@@ -1,5 +1,6 @@
 body
-{background-color:#f8f2dc;}
+{
+background:img src="Assets/images/background-image.png";}
 
 h1{text-align:center;
     color:#343434}
